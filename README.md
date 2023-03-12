@@ -1,2 +1,2 @@
 # CS399-2D
-Unity 2D Platformer Intro
+Unity 2D Game Development
